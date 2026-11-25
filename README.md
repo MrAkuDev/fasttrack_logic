@@ -14,7 +14,3 @@ Aplicación interactiva en **Streamlit** para el Proyecto Final (Caso 1) de la m
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Despliegue en Streamlit Community Cloud
-1. Sube este repositorio (`fasttrack_logic`) a GitHub.
-2. En [share.streamlit.io](https://share.streamlit.io), selecciona el repositorio y establece `app.py` como archivo principal.
